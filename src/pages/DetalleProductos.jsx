@@ -1,12 +1,12 @@
 import { Link, useParams, useLocation } from "react-router-dom";
+import "../css/DetalleProductos.css";
 
 const ProductoDetalle = () => {
- 
-    const { id } = useParams();
-    const location = useLocation();
-    const producto = location.state?.producto;
- 
-if (!producto) {
+  const { id } = useParams();
+  const location = useLocation();
+  const producto = location.state?.producto;
+
+  if (!producto) {
     return (
       <div>
         <p>No se pudo cargar el producto</p>
@@ -16,9 +16,10 @@ if (!producto) {
       </div>
     );
   }
- 
-  return(
+
+  return (
     <>
+      {/*
     <h2>Detalles del Producto {id}</h2>
     <ul>
         <li key={producto.id}>
@@ -32,6 +33,16 @@ if (!producto) {
         <hr />
         <Link to={`/productos`}><button>Volver</button></Link>
     </ul>
+    */}
+      <div>
+        <div className="detalle">
+          <img src={producto.avatar} alt={producto.nombre} />
+        </div>
+        <div>
+
+        </div>
+      </div>
     </>
   );
-}; export default ProductoDetalle;
+};
+export default ProductoDetalle;

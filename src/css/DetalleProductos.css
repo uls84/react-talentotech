@@ -1,0 +1,11 @@
+
+#detalle {
+    position: absolute;
+    border: none;
+    max-width: 800px;
+    max-height: 800px;
+}
+
+div {
+    background-color: grey;
+}
