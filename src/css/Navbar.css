@@ -2,4 +2,6 @@ nav {
     background-color: #422134;
     color: #FCE1DA;
     padding: 2rem 2rem;
+    display: flex;
+    justify-content: end;
 }

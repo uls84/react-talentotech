@@ -1,5 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
+import "../css/Carrito.css"
 
 export default function CarritoCompras({ carrito, setCarrito }) {
   const navigate = useNavigate();
@@ -15,7 +16,7 @@ export default function CarritoCompras({ carrito, setCarrito }) {
   const total = carrito.reduce((sum, item) => sum + Number(item.precio), 0);
 
   return (
-    <div>
+    <div className="carrito">
       <hr />
       <h2>Carrito de Compras</h2>
       {carrito.length === 0 ? (

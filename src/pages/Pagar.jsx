@@ -30,7 +30,7 @@ export default function Pagar({
   };
 
   return (
-    <div>
+    <div className="inicioSesion">
       <div>
         <h2>{usuario.nombre}</h2>
         <p>Email: {usuario.email}</p>

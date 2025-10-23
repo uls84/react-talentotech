@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
+import "../css/IniciarSesion.css"
 
 export default function IniciarSesion({ setIsAuthenticated, setUsuario }) {
   const navigate = useNavigate();
