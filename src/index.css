@@ -42,11 +42,11 @@ nav a:hover {
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 2rem;
   margin-top: 2rem;
+  margin-right: 2rem;
 }
 #lista-productos li {
   display: flex;
   flex-direction: column;
-  /*justify-content: center;*/
   align-items: center;
   background-color: #dfcdc7;
   padding: 1rem;
@@ -62,8 +62,8 @@ nav a:hover {
 }
 
 #lista-productos li img {
-  width: 272px;
-  height: 319px;
+  width: 250px;
+  height: 315px;
 }
 
 button {

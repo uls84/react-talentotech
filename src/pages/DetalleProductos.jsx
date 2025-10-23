@@ -20,11 +20,10 @@ const ProductoDetalle = () => {
   return (
     <>
       <div className="detalle">
-        <div>
+        <div className="imagenDetalle">
           <img src={producto.avatar} alt={producto.nombre} />
         </div>
-        <div>
-          <hr />
+        <div className="textoDetalle">
           <h1>{producto.nombre}</h1>
           <hr />
           <p>
@@ -32,7 +31,9 @@ const ProductoDetalle = () => {
             {producto.descripcion}
           </p>
           <p>{producto.detalles}</p>
-          <p>Precio: ${producto.precio}</p>
+          <h2>${producto.precio}</h2>
+          <hr />
+         <Link to="/Productos"><button>Volver</button></Link>
         </div>
         <div></div>
       </div>
