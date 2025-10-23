@@ -1,10 +1,10 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import '../css/servicios.css'
+import '../css/Servicios.css'
 
 function Servicios() {
   return (
-    <div>
+    <div className="services-container">
         <h1>Servicios</h1>
         <hr />
         <p>Nuestra Experiencia en Pedales Musicales

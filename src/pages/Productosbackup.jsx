@@ -13,6 +13,7 @@ export default function Productos() {
     try {
       setProductos(datosProductos.productos);
       setCargando(false);
+
     } catch (error) {
       console.error("Error:", error);
       setError("Hubo un problema al cargar los productos.");
@@ -20,39 +21,33 @@ export default function Productos() {
     }
   }, []);
 
+
   const agregarAlCarrito = (producto) => {
     setCarrito([...carrito, producto]);
     alert(`Producto ${producto.nombre} agregado al carrito`);
-  };
+  }
 
   if (cargando) return <p>Cargando productos...</p>;
   if (error) return <p>{error}</p>;
 
   return (
     <>
-      <ul id="lista-productos">
-        {productos.map((producto) => (
-          <li key={producto.id}>
-            <img src={producto.avatar} alt={producto.nombre} width="80%" />
-            <h2>{producto.nombre}</h2>
-            <br />
-            {producto.descripcion}
-            <br />
-            <h1>${producto.precio}</h1>
-            <br />
-            <Link
-              to={`/productos/${producto.categoria || "sin-categoria"}/${
-                producto.nombre
-              }:id${producto.id}`}
-              state={{ producto }}
-            >
-              <button>Más detalles</button>
-            </Link>
-            <button onClick={() => agregarAlCarrito(producto)}>Comprar</button>
-          </li>
-        ))}
-      </ul>
-      <CarritoCompras carrito={carrito} setCarrito={setCarrito} />
+    <ul id="lista-productos">
+      {productos.map((producto) => (
+        <li key={producto.id}>
+        <h2>{producto.nombre}</h2>
+          <br />
+          Descripción: {producto.descripcion}
+          <br />
+          Precio: ${producto.precio}
+          <br />
+          <img src={producto.avatar} alt={producto.nombre} width="80%" />
+          <Link to={`/productos/${producto.categoria || 'sin-categoria'}/${producto.nombre}:id${producto.id}`} state={{producto}}><button>Más detalles</button></Link>
+          <button onClick={() => agregarAlCarrito(producto)}>Comprar</button>
+        </li>
+      ))}
+    </ul>
+    <CarritoCompras carrito={carrito} setCarrito={setCarrito} />
     </>
   );
 }

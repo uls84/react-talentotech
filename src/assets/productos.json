@@ -5,7 +5,7 @@
       "nombre": "Big Muff",
       "descripcion": "Pedal Interfaz Electro Harmonix Big Muff Pi Hardware Plugin Color Blanco ",
       "precio": 363458,
-      "avatar": "/pedales/bigmuff.jpg",
+      "avatar": "/pedales/bigmuff.png",
       "categoria": "distorsion",
       "stock": 5,
       "detalles": "Un hardware plugin del Big Muff Pi puede ofrecer la misma calidad de sonido y características que el pedal físico, permitiendo a los músicos utilizarlo en entornos de grabación digital (DAW)."
@@ -15,7 +15,7 @@
       "nombre": "Boss Chrous",
       "descripcion": "Pedal de efecto Boss Super Chorus CH-1 azul",
       "precio": 226730,
-      "avatar": "/pedales/bosschorus.jpg",
+      "avatar": "/pedales/bosschorus.png",
       "categoria": "Chorus",
       "stock": 10,
       "detalles": "El Boss Super Chorus CH-1 es un pedal de efectos que se utiliza para crear un sonido de chorus rico y envolvente, que añade profundidad y amplitud al tono de guitarra o a otros instrumentos."
@@ -25,7 +25,7 @@
       "nombre": "Eventide Harmonizer",
       "descripcion": "Eventide Pitchfactor Harmonizer Pitch+ Pedal De Retardo",
       "precio": 1379999,
-      "avatar":"/pedales/eventide.jpg",
+      "avatar":"/pedales/eventide.png",
       "categoria": "Harmonizer",
       "stock": 18,
       "detalles": "Explora las infinitas posibilidades creativas con el Eventide PitchFactor Harmonizer Pitch+ Pedal de Retardo. Este pedal, diseñado por la reconocida marca Eventide, es la elección perfecta para músicos que buscan expandir su paleta sonora con efectos de alta calidad. Con tecnología de punta, el PitchFactor ofrece diez algoritmos de harmonización distintos, permitiendo desde sutiles cambios de tono hasta transformaciones radicales que pueden enriquecer cualquier composición musical."
@@ -35,7 +35,7 @@
       "nombre": "Heavy Metal",
       "descripcion": "Boss Heavy Metal Waza Craft",
       "precio": 34990,
-      "avatar": "/pedales/heavymetal.jpg",
+      "avatar": "/pedales/heavymetal.png",
       "categoria": "distorsion",
       "stock": 33,
       "detalles": "Producido entre 1983 y 1991, el BOSS HM-2 Heavy Metal es una auténtica leyenda en la historia de los pedales de distorsión. Su característico “sonido de motosierra” con todos los diales al máximo es la inconfundible voz del death metal sueco, y sus otras caras ligeramente más suaves se pueden oír en pistas de mainstream y shoegaze. Los fans hardcore del HM-2 llevan años pidiéndolo, y ahora este mítico pedal renace tres décadas después en una edición especial de Waza Craft. El HM-2W ofrece el auténtico sonido analógico del original en toda su gloria, y además incluye montones de mejoras modernas para elevar sus prestaciones."
@@ -45,7 +45,7 @@
       "nombre": "Line 6 Delay",
       "descripcion": "Pedal de efecto Line 6 Stompbox Modeler Delay Stompbox Modeling DL4 verde",
       "precio": 34990,
-      "avatar": "/pedales/line6delay.jpg",
+      "avatar": "/pedales/line6delay.png",
       "categoria": "delay",
       "stock": 8,
       "detalles": "Explora un mundo de posibilidades sonoras con el Pedal de efecto Line 6 Stompbox Modeler Delay Stompbox Modeling DL4 en color verde. Este pedal de alta calidad es perfecto para músicos que buscan agregar versatilidad y profundidad a su sonido. Con 15 efectos diferentes, incluidos Delay, Distortion y Modulation, tendrás una amplia gama de opciones para darle vida a tus interpretaciones en bajo y guitarra eléctrica."
@@ -55,7 +55,7 @@
       "nombre": "Hotone Ampero II Stage",
       "descripcion": "Pedal de efectos Hotone Ampero Ii Stage Mp-380 Color blanco",
       "precio": 1520875,
-      "avatar": "/pedales/ampero2.jpg",
+      "avatar": "/pedales/ampero2.png",
       "categoria": "amp modeler",
       "stock": 7,
       "detalles": "El Ampero II Stage es la última joya de la serie Ampero, diseñada para elevar tus presentaciones en vivo a otro nivel. Equipado con una plataforma digital de triple núcleo de vanguardia y los convertidores ESS® Sabre® AD/DA de primera calidad, este modelador garantiza un sonido de máxima calidad, sin importar si tocas en un gran festival o en un íntimo local de espectáculos."
@@ -65,7 +65,7 @@
       "nombre": "Boss Delay",
       "descripcion": "Pedal de efecto Boss Digital Delay DD-8 gris",
       "precio": 448000,
-      "avatar": "/pedales/bossdelay.jpg",
+      "avatar": "/pedales/bossdelay.png",
       "categoria": "delay",
       "stock": 16,
       "detalles": "El más avanzado Delay de la serie de pedales compactos BOSS en la historia Once versátiles modos incluyendo Delay digital básico, ecos vintage, Shimmer, Mod, Looper y más Looper ofreciendo hasta 40 segundos de tiempo de grabación, capacidad de overdub y operación de tres pedales con pedales de cambio externos Hasta 10 segundos de tiempo de retraso disponible con la entrada del Tap Tempo."
@@ -75,7 +75,7 @@
       "nombre": "TC Electronics Nova Delay",
       "descripcion": "Pedal Tc Electronic Nova Delay",
       "precio": 450000,
-      "avatar": "/pedales/novadelayelectronics.jpg",
+      "avatar": "/pedales/novadelayelectronics.png",
       "categoria": "delay",
       "stock": 28,
       "detalles": "Con 6 tipos de delay estéreo diferentes y la opción de almacenar hasta 9 ajustes preestablecidos personalizables, Nova Delay cumple con todos los requisitos de los guitarristas modernos que desean crear sonidos únicos. Nova Delay ofrece efectos digitales de calidad de estudio sin concesiones en un diseño compacto basado en pisos."
@@ -85,7 +85,7 @@
       "nombre": "Boss Metal Zone",
       "descripcion": "Pedal de efecto Boss Metal Zone MT-2 negro",
       "precio": 317698,
-      "avatar": "/pedales/metalzone.jpg",
+      "avatar": "/pedales/metalzone.png",
       "categoria": "distorsion",
       "stock": 17,
       "detalles": "Sumérgete en el mundo del rock y el metal con el pedal de efecto Boss Metal Zone MT-2 en color negro. Este pedal de alta calidad es perfecto para guitarristas eléctricos que buscan un sonido potente y versátil. Con sus 3 efectos distintos, podrás experimentar con EQ, Distortion y Sustain para encontrar el tono perfecto para tus solos y riffs. La tecnología analógica del pedal garantiza una reproducción fiel y auténtica del sonido de tu guitarra."
@@ -95,7 +95,7 @@
       "nombre": "Boss Tuner",
       "descripcion": "Pedal Afinador Boss Tu3 Cromático Chromatic Tuner Color Blanco",
       "precio": 279998,
-      "avatar": "/pedales/novadelayelectronics.jpg",
+      "avatar": "/pedales/bosstuner.png",
       "categoria": "Afinador",
       "stock": 60,
       "detalles": " El TU-3 incorpora un indicador de notas que permite mostrar las notas de guitarras de 7 cuerdas o de bajos de 6 cuerdas, mientras que el modo flat tuning permite modificar la afinación estándar y transportarla hasta 6 semitonos."
@@ -105,7 +105,7 @@
       "nombre": "Line 6 Stomp",
       "descripcion": "Pedalera multiefecto HX Stomp Line 6 color Negro",
       "precio": 1641286,
-      "avatar": "/pedales/line6stomp.jpg",
+      "avatar": "/pedales/line6stomp.png",
       "categoria": "amp modeler",
       "stock": 6,
       "detalles": " Utiliza el mismo modelado HX que Helix Más de 300 efectos y modelos de Helix, M-Series y Legacy Line 6 Hasta 6 bloques simultáneos de amplificador, cabina y efecto (incluyendo un bucle y carga IR) 3 interruptores de pie de detección capacitiva con anillos LED codificados por colores facilitan la edición rápida La entrada de pedal TRS de doble expresión amplía las capacidades de control creativo"
@@ -116,7 +116,7 @@
       "nombre": "Quadcortex",
       "descripcion": "Pedalera Neural DSP Quad Cortex Para Guitarra y Bajo",
       "precio": 4845818,
-      "avatar": "/pedales/quadcortex.jpg",
+      "avatar": "/pedales/quadcortex.png",
       "categoria": "amp modeler",
       "stock": 2,
       "detalles": " Quad Cortex es el modelador de pisos más poderoso del planeta. Con un total de 6 núcleos (4x SHARC+ y 2x ARM Cortex-A5 funcionando a 500 MHz cada uno), esta increíble cantidad de capacidad de procesamiento brinda posibilidades ilimitadas de diseño de sonido."
@@ -126,7 +126,7 @@
       "nombre": "Rat 2",
       "descripcion": "Pedal De Distorsión Pro Co Rat2",
       "precio": 311876,
-      "avatar": "/pedales/rat.jpg",
+      "avatar": "/pedales/rat.png",
       "categoria": "distorsion",
       "stock": 2,
       "detalles": "El RAT2 será tu pedal de distorsión de referencia para cada concierto, ya sea rock, blues, punk o jazz. Este es el estándar contra el cual se miden todos los demás dispositivos de distorsión. Escuchado en miles de grabaciones, ha ayudado a definir el sonido de las bandas más influyentes de las últimas tres décadas."
@@ -136,7 +136,7 @@
       "nombre": "Tube Screamer",
       "descripcion": "Pedal de efecto Ibanez Tube Screamer TS9 verde",
       "precio": 311876,
-      "avatar": "/pedales/tubescreamer.jpg",
+      "avatar": "/pedales/tubescreamer.png",
       "categoria": "overdrive",
       "stock": 25,
       "detalles": "El TS9 Tube Screamer es uno de los pedales de distorsión clásicos más imitados jamás fabricados. Ahora puedes conseguir una reedición que es tan auténtica como una original. De hecho, este TS9 Tube Screamer presenta los mismos componentes, carcasa y pintura verde mareada que se usaron para fabricar los modelos originales. ¡Incluso se fabrican en la misma fábrica! Lo que es aún más importante es que el sonido es perfecto. Descubra la distorsión y el impulso del pedal clásico."
@@ -146,7 +146,7 @@
       "nombre": "Whammy",
       "descripcion": "Pedal de efecto DigiTech Whammy DT rojo",
       "precio": 595595,
-      "avatar": "/pedales/whammy.jpg",
+      "avatar": "/pedales/whammy.png",
       "categoria": "pitch",
       "stock": 25,
       "detalles": "Lleva tu sonido a otro nivel con el Pedal de efecto DigiTech Whammy DT en color rojo. Este pedal de la reconocida línea Whammy es perfecto para músicos que buscan agregar versatilidad y dinamismo a su interpretación. Con su pedal de expresión incluido, podrás controlar fácilmente el efecto de pitch en tiempo real, dándote la libertad de experimentar y encontrar tu estilo único."

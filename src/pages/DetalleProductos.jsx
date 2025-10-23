@@ -19,28 +19,22 @@ const ProductoDetalle = () => {
 
   return (
     <>
-      {/*
-    <h2>Detalles del Producto {id}</h2>
-    <ul>
-        <li key={producto.id}>
-            <h2>{producto.nombre}</h2>
-            <br />
-            <p><strong>Descripción: </strong>{producto.descripcion}</p>
-            <p>{producto.detalles}</p>
-            <p>Precio: ${producto.precio}</p>
-            <img src={producto.avatar} alt={producto.nombre} width="30%" />
-        </li>
-        <hr />
-        <Link to={`/productos`}><button>Volver</button></Link>
-    </ul>
-    */}
-      <div>
-        <div className="detalle">
+      <div className="detalle">
+        <div>
           <img src={producto.avatar} alt={producto.nombre} />
         </div>
         <div>
-
+          <hr />
+          <h1>{producto.nombre}</h1>
+          <hr />
+          <p>
+            <strong>Descripción: </strong>
+            {producto.descripcion}
+          </p>
+          <p>{producto.detalles}</p>
+          <p>Precio: ${producto.precio}</p>
         </div>
+        <div></div>
       </div>
     </>
   );
