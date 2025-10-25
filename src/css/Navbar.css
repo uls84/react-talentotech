@@ -1,7 +1,14 @@
 nav {
-    background-color: #422134;
-    color: #FCE1DA;
-    padding: 2rem 2rem;
-    display: flex;
-    justify-content: end;
+  background-color: #422134;
+  color: #fce1da;
+  padding: 2rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logoGrande {
+  height: 100px;
+  float: left;
+  background-color: #422134;
 }
